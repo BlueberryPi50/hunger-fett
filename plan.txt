@@ -1,0 +1,32 @@
+- main.py
+- config.py
+> cogs
+    - hg.py
+    - utils.py
+    - accounts.py
+    - npcs.py
+    - owner.py
+    - error_handler.py
+
+> res
+    - badges.py
+    - emojis.py
+    > defaults
+    > themes
+        > classic
+            - actions.txt
+            - init.py
+
+        > star_wars
+            - ...
+
+        > ...
+
+> scripts
+    - image_processor.py
+    - database.py
+
+> data
+    - accounts.db
+    - npcs.db
+    > temp
